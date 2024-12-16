@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Asadbek
-- 👀 I’m interested in Developer
-- 🌱 I’m currently learning Python Backend
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Asadbek.
+- 👀 I’m interested in changing the world with my creativity.
+- 🌱 I’m currently learning Python Backend.
+- ⚡ Fun fact: No
 
 <!---
 Asadbeekk/Asadbeekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
