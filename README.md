@@ -24,8 +24,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
-### 📊 GitHub Stats
-![Asadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
+![AsadbekVision's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadbekVision&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark)
+### 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekVision&layout=compact&theme=dark)
+
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AsadbekVision&theme=darkhub&no-bg=true&no-frame=true)
+
