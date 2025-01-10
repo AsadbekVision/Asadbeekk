@@ -1,7 +1,15 @@
-- 👋 Hi, I’m Asadbek.
-- 👀 I’m interested in changing the world with my creativity.
-- 🌱 I’m currently learning Python Backend.
-- ⚡ Fun fact: No
+Hello, I'm Asadbek.
+1. 🚀 Aspiring Backend Developer | 🐍 Python, 🌐 Django, ⚡ FastAPI Enthusiast | Building scalable solutions.
+2. 🛠️ Turning Python code into robust APIs with 🌐 Django & ⚡ FastAPI. 🚀 | Backend Dev in progress.
+3. 💻 Crafting powerful web apps with 🌐 Django and blazing-fast APIs with ⚡ FastAPI. ✨
+4. 🧑‍💻 Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | Passionate about clean architecture. 🏗️
+5. 🌟 Building the future of web development with 🌐 Django & ⚡ FastAPI. 🚀
+6. 🛠️ Backend Dev | 🐍 Python 🐍 | 🌐 Django & ⚡ FastAPI | Exploring the art of API design. 🎨
+7. ❤️ Loving 🐍 Python and its frameworks | 🌐 Django for web, ⚡ FastAPI for speed. 💨
+8. 👨‍💻 Backend-focused Developer | 🌐 Django | ⚡ FastAPI | Solving problems, one API at a time. 🧩
+9. 🌈 Creating seamless web experiences with 🌐 Django & ⚡ FastAPI | Tech enthusiast. 🤓
+10. 📚 Backend Developer in training | 🌐 Django & ⚡ FastAPI Advocate | Problem-solver at heart. 💡
+
 
 ### 🛠️ My Skills  
 #### Programming Languages  
@@ -28,6 +36,7 @@
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekVision&layout=compact&theme=dark)
 
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AsadbekVision&theme=darkhub&no-bg=true&no-frame=true)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsadbekVision&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
