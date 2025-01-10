@@ -10,6 +10,7 @@ Hello, I'm Asadbek.
 9. 🌈 Creating seamless web experiences with 🌐 Django & ⚡ FastAPI | Tech enthusiast. 🤓
 10. 📚 Backend Developer in training | 🌐 Django & ⚡ FastAPI Advocate | Problem-solver at heart. 💡
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🛠️ My Skills  
 #### Programming Languages  
@@ -39,9 +40,5 @@ Hello, I'm Asadbek.
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsadbekVision&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-### 📖 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
