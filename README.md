@@ -25,8 +25,6 @@
 
 
 
-![AsadbekVision's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadbekVision&show_icons=true&theme=dark&count_private=true)
-
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekVision&layout=compact&theme=dark)
 
